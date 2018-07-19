@@ -1,0 +1,73 @@
+BODY {color:#8a8a8a; font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif; background-color:#ffffff}
+
+body {
+
+          scrollbar-face-color: #D8D9D9;
+
+          scrollbar-arrow-color: #485B6C;
+
+          scrollbar-track-color: #ffffff;
+
+          scrollbar-highlight-color: #D3D3D5;
+
+          scrollbar-3dlight-color: #D3D3D5;
+
+          scrollbar-shadow-color: #D3D3D5;
+
+          scrollbar-darkshadow-color: #D3D3D5;
+
+      }
+
+
+
+	INPUT
+
+{
+
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+
+  font-weight:normal;
+
+  font-size: 9px;
+
+  color: #000000;
+
+  border-style: solid;
+
+  border-color:#000000;
+
+  background-color: #ffffff;
+
+  border-width: 1px;
+
+}
+
+
+<!-- Default -->
+
+.text	  {color:#000000;font-size: 10pt; font-family: verdana, arial, helvetica, sans-serif; text-decoration:none}		
+
+A:link    {color:#000000;font-size: 10pt; font-family: verdana, arial, helvetica, sans-serif; text-decoration:none}		
+
+A:visited {color:#000000;font-size: 10pt; font-family: verdana, arial, helvetica, sans-serif; text-decoration:none}		
+
+A:active  {color:#8a8a8a;font-size: 10pt; font-family: verdana, arial, helvetica, sans-serif; text-decoration:none}		
+
+A:hover   {color:#8a8a8a;font-size: 10pt; font-family: verdana, arial, helvetica, sans-serif; text-decoration:none}
+
+
+.attributeinput  {
+
+	font-size : 9px;
+
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+
+	font-weight : normal;
+
+	font-style : normal;
+
+	color : black;
+
+	text-decoration : none;
+
+}
